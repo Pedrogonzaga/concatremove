@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1629593768 source:c:\users\pedro\documents\codeblocks\concatremove\main.c
+	<stdio.h>
+	<string.h>
+	"defines.h"
+	"funcoes.h"
+
+1626338776 c:\users\pedro\documents\codeblocks\concatremove\unity.h
+	"unity_internals.h"
+
+1626338776 c:\users\pedro\documents\codeblocks\concatremove\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdnoreturn.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1626338776 source:c:\users\pedro\documents\codeblocks\concatremove\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1626338776 c:\users\pedro\documents\codeblocks\concatremove\unity\unity.h
+	"unity_internals.h"
+
+1626338776 c:\users\pedro\documents\codeblocks\concatremove\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdnoreturn.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1629592599 source:c:\users\pedro\documents\codeblocks\concatremove\teste_funcao.c
+	<stdio.h>
+	<string.h>
+	"defines.h"
+	"Unity/unity.h"
+	"teste_funcao.h"
+
+1629593156 c:\users\pedro\documents\codeblocks\concatremove\defines.h
+
+1629592726 c:\users\pedro\documents\codeblocks\concatremove\teste_funcao.h
+	<stdio.h>
+	<string.h>
+	"defines.h"
+	"Unity/unity.h"
+
+1629593677 source:c:\users\pedro\documents\codeblocks\concatremove\funcoes.c
+	<stdio.h>
+	<string.h>
+	"defines.h"
+
+1629593735 c:\users\pedro\documents\codeblocks\concatremove\funcoes.h
+	<stdio.h>
+	<string.h>
+	"defines.h"
+
